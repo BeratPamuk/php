@@ -10,5 +10,5 @@
     echo "Harf Sayısı : ".strlen($mesaj)."<br>";
     echo "Cümle sayısı : ".str_word_count($mesaj)."<br>";
 
-    echo str_replace("berat","zeynel",$mesaj);
+    echo str_replace(berat,"zeynel",$mesaj);
 ?>

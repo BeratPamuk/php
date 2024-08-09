@@ -1,9 +1,7 @@
 <?php
 
-    $ad = "Berat";
+    $ad= "berat";
     $soyad = "Pamuk";
-    $ad = "Hidayet";
-
  
 
     echo $ad.' '.$soyad;
